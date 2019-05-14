@@ -1,0 +1,4 @@
+target "LXCycleScrollViewDemo" do
+
+pod 'SDWebImage', '~>4.4.6'
+end
